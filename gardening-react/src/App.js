@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+          ALSO TURN BACK NOW BECAUSE YOU KNOW NOT WHAT YOU DO
         </p>
         <a
           className="App-link"
@@ -23,4 +24,4 @@ function App() {
   );
 }
 
-export default App;
+// export default App;
