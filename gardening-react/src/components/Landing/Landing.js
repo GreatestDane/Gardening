@@ -7,10 +7,11 @@ library.add(faStroopwafel)
 
 
 const Landing = () => {
+
     return (
         <div className="landing-box container-fluid">
             <div id="landing-div" className="jumbotron bg-transparent rounded-0">
-                <h1 id="landing-title">T H E  G A R D E N S</h1>
+                <h1 id="landing-title">T H E    G A R D E N S</h1>
                 <div className="text-center">
                     <a href="/login" className="top-button btn-lg m-1 btn btn-success">Login</a>
                     <a href="/register" className="top-button btn-lg m-1 btn btn-success">Register</a>
