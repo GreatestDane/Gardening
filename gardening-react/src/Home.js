@@ -27,9 +27,9 @@ class Home extends React.Component {
         return (
             <h1>
                 <Landing
-                    title={this.state.data}
+                    // title={this.state.data}
                 />
-                {this.state.data}
+                {/* {this.state.data} */}
             </h1>
         );
     }

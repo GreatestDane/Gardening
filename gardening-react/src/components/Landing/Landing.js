@@ -36,7 +36,7 @@ class Landing extends React.Component {
                         {/* <a href="/login" className="top-button btn-lg m-1 btn btn-success" onClick={()=> this.handleClick()}>Login</a> */}
                         <button className="top-button btn-lg m-1 btn btn-success" onClick={()=> this.handleClick()}>Login</button>
                         {/* <button onClick={()=> this.handleClick()}>Console Log </button> */}
-                        <a href="/register" className="top-button btn-lg m-1 btn btn-success">Register</a>
+                        <a href="/express_backend" className="top-button btn-lg m-1 btn btn-success">Register</a>
                     </div>
                 </div>
             </div>
