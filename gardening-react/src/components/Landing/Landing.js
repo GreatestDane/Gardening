@@ -10,7 +10,7 @@ class Landing extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-        title: "THE GARDEN"
+        title: "THE GARDENS"
         // this.handleClick = this.handleClick.bind(this);
         }
     }
@@ -18,9 +18,9 @@ class Landing extends React.Component {
      
     handleClick() {
         // event.preventDefault();
-        alert("You clicked me");
-        for (let i = 0; i < 5; i++) {
-            console.log(`Dane is a fucking genius ${i} times`)
+        let taryn = prompt("Taryn is a Goddess");
+        for (let i = 0; i <= 100; i++) {
+            console.log(taryn)
         }
     }
 

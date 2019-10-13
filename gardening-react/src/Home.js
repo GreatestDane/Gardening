@@ -29,7 +29,7 @@ class Home extends React.Component {
                 <Landing
                     // title={this.state.data}
                 />
-                {/* {this.state.data} */}
+                {this.state.data}
             </h1>
         );
     }
