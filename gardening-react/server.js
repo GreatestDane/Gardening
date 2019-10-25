@@ -38,6 +38,3 @@ const basic_record = (req, res) => {
 };
 
 app.get('/api/basic_record', basic_record);
-
-
-
