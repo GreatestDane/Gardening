@@ -6,8 +6,10 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.24",
     "@fortawesome/free-solid-svg-icons": "^5.11.1",
     "@fortawesome/react-fontawesome": "^0.1.4",
+    "body-parser": "^1.19.0",
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
+    "mongoose": "^5.7.5",
     "popper": "^1.0.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -34,5 +36,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:3000/"
+  "proxy": "http://localhost:3001/"
 }
